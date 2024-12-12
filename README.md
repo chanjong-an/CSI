@@ -43,6 +43,7 @@ def custom_tokenizer(text):
 
 3. 사고 유형 단순화
 	•	데이터 피처 중 상위 빈도수를 기준으로 데이터 통합, 낮은 빈도수에 대해서 피처를 제거 하였음.
+![image](https://github.com/user-attachments/assets/7c419c08-aa84-45df-8a87-c0dea7bce70e)
 
 	•	복잡한 사고 유형을 주요 카테고리로 통합하여 분석 효율성을 높였습니다.
 
